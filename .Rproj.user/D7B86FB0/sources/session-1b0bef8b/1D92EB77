@@ -1,0 +1,26 @@
+{
+    "id": "1D92EB77",
+    "path": "~/BHT/Ml-1/shrinkage_methods/Shrinkage_mtcars.R",
+    "project_path": "Shrinkage_mtcars.R",
+    "type": "r_source",
+    "hash": "2031114931",
+    "contents": "",
+    "dirty": false,
+    "created": 1725479555647.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "72,29",
+        "scrollLine": "41"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1725482180,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1725482180484,
+    "read_only": false,
+    "read_only_alternatives": []
+}
